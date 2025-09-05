@@ -132,7 +132,7 @@ Display confusion matrix and interpret model’s performance.
 Results
 
 Model Accuracy: ~0.78 
-GeeksforGeeks
+
 
 Confusion Matrix Insights:
 
